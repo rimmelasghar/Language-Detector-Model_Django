@@ -35,4 +35,19 @@ open command prompt in your project folder and execute following command.
 
 🚀 The project will run on http://localhost:8000/  
 
+## Preview of the Application
+
+### Landing Page 🚀:
+![landingpage](https://github.com/rimmelasghar/Language-Detector-Model_Django/blob/master/images/screenshot.PNG)
+
+### Preview 2:
+![landingpage2](https://github.com/rimmelasghar/Language-Detector-Model_Django/blob/master/images/ss2.PNG)
+
+### Preview 3:
+![landingpage3](https://github.com/rimmelasghar/Language-Detector-Model_Django/blob/master/images/ss3.PNG)
+
+### Preview 4:
+![landingpage4](https://github.com/rimmelasghar/Language-Detector-Model_Django/blob/master/images/ss4.PNG)
+
+
 👨‍💻 By Rimmel Asghar with ❤
