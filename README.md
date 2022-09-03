@@ -50,4 +50,4 @@ open command prompt in your project folder and execute following command.
 ![landingpage4](https://github.com/rimmelasghar/Language-Detector-Model_Django/blob/master/images/ss4.PNG)
 
 
-👨‍💻 By Rimmel Asghar with ❤
+## 👨‍💻 By Rimmel Asghar with ❤
